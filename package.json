@@ -1,0 +1,12 @@
+{
+  "name": "is-funny-number",
+  "version": "1.0.0",
+  "description": "Checks if an integer is a funny number",
+  "main": "index.js",
+  "keywords": ["funny", "number", "meme", "math"],
+  "author": "Raymond Zou",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
